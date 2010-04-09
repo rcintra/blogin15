@@ -241,3 +241,12 @@ vendor
   External libraries that the application depends on. Also includes the plugins subdirectory.
   If the app has frozen rails, those gems also go here, under vendor/rails/.
   This directory is in the load path.
+
+
+-------PATH---------
+posts_path
+new_post_path
+post_path(post)
+edit_post_path(post)
+---------------------
+
